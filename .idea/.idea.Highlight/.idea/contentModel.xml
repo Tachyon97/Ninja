@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Farhad M\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Farhad M\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Highlight.718981432.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Farhad M\Desktop\Project Eon\Unity\Highlight" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ArrowController.cs" t="Include" />
+          <e p="Character.cs" t="Include" />
+          <e p="EnemyScript.cs" t="Include" />
+          <e p="EnemySpawner.cs" t="Include" />
+          <e p="GameOver.cs" t="Include" />
+          <e p="Singletonmanager.cs" t="Include" />
+          <e p="TouchBehaviour.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Highlight.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
